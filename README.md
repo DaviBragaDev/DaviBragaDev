@@ -30,7 +30,13 @@
 )](https://www.facebook.com/)
 
  ![Snake animation](https://github.com/DaviBragaDev/DaviBragaDev/blob/output/github-contribution-grid-snake.svg)
-
+<br>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <br>
+ <br>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=DaviBragaDev&label=Profile%20views&color=7f2299&style=background:#3630a3;color:white;" alt="DaviBragaDev" /> </p>
+  
+ <br>
 
 
 
